@@ -9,3 +9,12 @@
 // Reduces manual start , stop of the server.
 // Dev Dependency :=
 // Does not affect deployment
+
+// When working with a database , problems may occur
+// Hence wrap your code in try , catch 
+// OR promises using resolve , reject
+
+//  Database is always in another continent
+
+// Hence , time is rquired for some processes
+// Hence always use async , await
